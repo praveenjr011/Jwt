@@ -16,6 +16,7 @@ import com.example.demo.service.UserService;
 import com.example.demo.utility.JwtUtility;
 
 @RestController
+
 public class HomeController {
 
 	@Autowired
